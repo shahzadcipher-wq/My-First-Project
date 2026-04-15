@@ -455,6 +455,7 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.3.12f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.3.12f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/Scripts/Core/GameManager.cs"
+"Assets/Scripts/Core/ScoreManager.cs"
 "Assets/Scripts/Ground/MoveLeft.cs"
 "Assets/Scripts/Playr/PlayerController.cs"
 -langversion:9.0
